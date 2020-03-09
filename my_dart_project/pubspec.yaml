@@ -1,0 +1,11 @@
+# pubspec.yaml
+
+name: my_dart_project
+
+environment:
+  sdk: '>=2.6.0 <3.0.0'
+  
+dependencies:
+  my_twilio: 
+    path: lib/my_twilio
+  args: ^1.5.0
