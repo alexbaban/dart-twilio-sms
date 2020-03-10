@@ -7,5 +7,5 @@ environment:
   
 dependencies:
   my_twilio: 
-    path: lib/my_twilio
+    path: ../my_twilio
   args: ^1.5.0
