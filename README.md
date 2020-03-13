@@ -1,6 +1,6 @@
 # Dart Twilio SMS
 
-This is a companion repository for my "Create a Dart library package to send SMS with Twilio"
+This is a companion repository for my ["Sending SMS Messages with Dart and Twilio Programmable SMS"](https://www.twilio.com/blog/sending-sms-messages-dart-twilio-programmable-sms)
  blog post.
 
  ## Usage
